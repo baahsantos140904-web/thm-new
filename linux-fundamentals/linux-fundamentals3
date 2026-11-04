@@ -1,0 +1,11 @@
+Today, I completed the third part of Linux Fundamentals, finishing this module with new knowledge about Linux system administration 
+and command-line usage.
+
+I learned how to use text editors in the terminal, work with useful commands and tools, and identify running processes.
+I also practiced task automation using cron and crontab, understanding how to schedule commands to run automatically.
+
+In addition, I studied package management, learning about software installation and updates. When working with logs,
+I explored Apache2 records and managed to identify the IP address of a user who accessed the server, as well as the file they requested.
+
+With this final part, I was able to improve my command-line skills and better understand task automation, process management, 
+and activity analysis in Linux systems.
