@@ -1,1 +1,16 @@
-realatorio relatorio
+
+In this stage of TryHackMe, I expanded my knowledge of the Windows operating system, exploring its structure, administrative tools,
+and features used to manage users and permissions.
+
+Throughout the activities, I explored different Windows editions, the graphical user interface (GUI), the Start Menu, Taskbar, and Notification Area. 
+I also learned how to navigate the file system, understand the purpose of the `C:\Windows` and `System32` folders, 
+and recognize the importance of environment variables such as `%windir%`.
+
+Another important topic was user and permission management. I worked with local accounts, groups, user profiles, and access levels,
+while also understanding how User Account Control (UAC) helps protect the system against unauthorized changes.
+
+I also explored the Control Panel and Windows settings, learning about different system configuration and management options. 
+Finally, I worked with Task Manager to better understand process and resource management, including its main features and keyboard shortcuts.
+
+This stage helped me become more familiar with the Windows environment and understand how its administrative tools and security mechanisms work.
+These are important foundations for future activities involving system administration, security analysis, and Active Directory.
