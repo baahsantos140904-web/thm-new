@@ -1,1 +1,15 @@
+Throughout this module, I explored several Windows system administration tools available through System Configuration (MSConfig) 
+and learned how they can be used to manage, monitor, and troubleshoot a computer.
 
+I worked with Advanced System Settings and User Account Control (UAC), understanding how Windows manages system configurations and user permissions. 
+I also explored Computer Management, including its administrative tools, and System Information (msinfo32), which provides detailed information about hardware,
+system components, and software environments.
+
+Another important part of this module was learning how to use Resource Monitor (resmon.exe) to observe system performance and resource usage.
+I also practiced using the Command Prompt, working with commands such as hostname, whoami, ipconfig, ipconfig /all, and netstat to retrieve system and network information.
+
+Finally, I explored the Windows Registry through Registry Editor (regedit), learning about its role in storing system, hardware, and software configurations,
+as well as the importance of being careful when making changes.
+
+This module helped me develop a better understanding of Windows administration, system monitoring, troubleshooting, and configuration management. 
+These skills are important in Cybersecurity, especially when analyzing systems, identifying configuration issues, and understanding how operating systems work.
