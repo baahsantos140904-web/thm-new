@@ -1,1 +1,15 @@
+Throughout this module, I explored how Active Directory (AD) is used to centrally manage users, computers, and security policies in Windows domain environments.
+I learned about Domain Controllers and their role in authentication and resource management.
 
+I studied AD components such as users, machine accounts, security groups, and Organizational Units (OUs), 
+understanding how they help organize resources and control access. I also learned about delegation,
+which allows administrators to assign specific permissions without granting full administrative access.
+
+Another important topic was Group Policy Objects (GPOs), which allow administrators to apply security settings and configurations across users and computers.
+I explored how policies can control password requirements, restrict access to system settings, and automatically lock inactive sessions.
+
+I also learned about Windows domain authentication, focusing on Kerberos and NetNTLM, 
+as well as how domains can be organized into trees and forests and connected through trust relationships to share resources securely.
+
+This module strengthened my understanding of identity management, authentication, access control, and security administration in Windows environments,
+all of which are important skills in Cybersecurity.
