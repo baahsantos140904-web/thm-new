@@ -1,0 +1,13 @@
+In this module, I explored how to manage and interact with Windows systems through the Command Prompt. 
+I learned how to retrieve system information using commands such as ver and systeminfo, as well as check network configurations with ipconfig, ping, tracert,
+nslookup, and netstat.
+
+I also practiced navigating directories and managing files using commands like cd, dir, tree, mkdir, rmdir, type, copy, move, and del. 
+These exercises helped me understand how to perform everyday file management tasks directly through the command line.
+
+Another important part of the module focused on process management. I learned how to list running processes with tasklist, filter results, 
+and terminate specific processes using taskkill and their process IDs (PIDs). I also explored system power commands, including shutdown /r, shutdown /s, 
+and shutdown /a to restart, shut down, or cancel a scheduled shutdown.
+
+This module improved my confidence using the Windows Command Prompt and strengthened my understanding of system administration, network troubleshooting, 
+and process management, which are useful skills in Cybersecurity.
